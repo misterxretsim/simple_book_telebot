@@ -1,0 +1,5 @@
+telebot.sqlite3-journal
+package-lock.json
+.idea
+/node_modules
+.env
